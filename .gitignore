@@ -1,0 +1,16 @@
+# Python junk
+__pycache__/
+*.pyc
+.env
+
+# VS Code junk
+.vscode/
+
+# Virtual Environments (If you ever create one inside this folder)
+venv/
+env/
+ai_vision/
+
+# MediaPipe / TensorFlow downloaded models
+*.task
+*.binarypb
